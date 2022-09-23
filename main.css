@@ -4,3 +4,11 @@ body {
 	font-family: sans-serif;
 	padding: 0 1rem;
 }
+
+.hidden {
+	display: none;
+}
+
+.answer {
+	color: yellow;
+}

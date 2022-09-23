@@ -2,4 +2,9 @@
 - x create CSS page and connect
 - x create javascript page and connect: console.log
 	- x change element text
-- .. make a button to change the text
+- x make a button to change the text
+- .. change to flashcard app
+	- .. on button click
+		- hide button
+		- show answer
+- change to where button toggles answer on and off
