@@ -1,0 +1,2 @@
+- x create a HTML page with text
+- x create CSS page and connect
