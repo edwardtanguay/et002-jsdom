@@ -1,2 +1,4 @@
 - x create a HTML page with text
 - x create CSS page and connect
+- x create javascript page and connect: console.log
+	- x change element text
