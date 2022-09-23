@@ -3,5 +3,5 @@ const changeTextButtonElem = document.querySelector('.changeTextButton');
 
 messageElem.innerText = 'this is from javascript';
 changeTextButtonElem.addEventListener('click', () => {
-	console.log('button was clicked');
+	messageElem.innerText = 'TEXT WAS CHANGED';
 });
